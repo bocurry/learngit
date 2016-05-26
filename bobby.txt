@@ -1,2 +1,6 @@
 second
+<<<<<<< HEAD
 four
+=======
+four
+>>>>>>> c46052c05551eb28b33f767b3dab311d2d908b66
